@@ -1,2 +1,2 @@
 # git-config
-git config note
+git config note.
